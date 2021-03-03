@@ -1,0 +1,80 @@
+
+
+h1{
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 50px;
+    color: cyan;
+
+}
+
+p{
+    font-family: 'Akaya Telivigala', cursive;
+    color: darkblue;
+}
+
+
+
+.center{
+      text-align: center;
+      margin: auto;
+}
+
+.p-footer{
+    color:  green;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+
+a:link { 
+    color
+    : white
+    ; }
+    a:visited { 
+    color
+    : hotpink
+    ;
+    }
+    a:hover { 
+    color
+    : cyan
+    ;
+    }
+    a:active {
+    color
+    : yellow
+    ;
+    }
+
+    nav{
+        background: black;
+        height: 50px;
+
+        text-align: center;
+        padding: 10px;
+        text-decoration: none;
+        font-size: 20px;
+
+
+        font-family: 'Stick', sans-serif;
+        
+        word-spacing: 20px;
+
+    }
+
+    *{
+        text-decoration: none;
+        box-sizing: border-box;
+    }
+
+    hr{
+        border-width:  0px;
+        height: 2px;
+        color: black;
+        background-color: black;
+
+    }
